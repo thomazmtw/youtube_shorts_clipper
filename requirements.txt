@@ -1,0 +1,5 @@
+# Core Dependencies
+yt-dlp>=2024.0.0
+faster-whisper>=1.0.0
+av<14
+Pillow>=10.0.0
